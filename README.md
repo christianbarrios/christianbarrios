@@ -14,6 +14,17 @@ When I get down to creating, I use these tools (or at least have them close by):
 * **Where I Store My Treasures**: [e.g., MongoDB, MySQL, Sqlite]
 * **Other Gadgets**: [e.g., Docker, AWS, Git, Oracle]
 
+***
+
+### 🎮 Need a break?
+
+If you're looking to unwind, clear your mind, or just pass the time, feel free to play a round of classic Tetris. It's a great way to relax and zone out for a bit.
+
+**[Play Tetris!](https://christianbarrios.github.io/tetris/)**
+
+***
+
+
 ---
 
 ### ☕ Wanna grab a coffee?
