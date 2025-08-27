@@ -1,17 +1,22 @@
-### 👋 ¡Oye! ¿Qué onda? Soy Christian 😎
+---
 
+### 👋 Hey there! What's up? I'm Christian 😎
 
-Probablemente me encontraste curioseando por aquí, buscando el próximo desafío o rompiendo algo para después arreglarlo (es parte de la diversión, ¿no?).
-Soy un escritor de código y detective de datos. Me encanta convertir ideas locas en realidad y hacer que las cosas funcionen más rápido.
+You probably found me nosing around here, looking for the next challenge or breaking something just to fix it later (it's part of the fun, right?). I'm a code writer and data detective. I love turning crazy ideas into reality and making things run faster.
 
-🔨 Mi Caja de Herramientas
-Cuando me pongo a crear, uso estas herramientas (o al menos las tengo cerca):
- * Juguetes favoritos: [Ej. JavaScript, Python, Java]
- * Mis súper poderes: [Ej. React, Android, Node.js]
- * Donde guardo mis tesoros: [Ej. MongoDB, MySQL, Sqlite]
- * Otras chucherías: [Ej. Docker, AWS, Git, Oracle]
+---
 
-☕ ¿Te tomas un café?
-Encuéntrame por ahí, charlemos y quién sabe, tal vez surja algo épico.
- * LinkedIn: [https://www.linkedin.com/in/christian-barrios-1497a6124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
- 
+### 🔨 My Toolbox
+
+When I get down to creating, I use these tools (or at least have them close by):
+* **Favorite Toys**: [e.g., JavaScript, Python, Java]
+* **My Superpowers**: [e.g., React, Android, Node.js]
+* **Where I Store My Treasures**: [e.g., MongoDB, MySQL, Sqlite]
+* **Other Gadgets**: [e.g., Docker, AWS, Git, Oracle]
+
+---
+
+### ☕ Wanna grab a coffee?
+
+Find me around, let's chat, and who knows, maybe something epic will come out of it.
+* **LinkedIn**: [[https://www.linkedin.com/in/christian-barrios-1497a6124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/christian-barrios-1497a6124?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
