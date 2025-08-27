@@ -22,7 +22,6 @@ If you're looking to unwind, clear your mind, or just pass the time, feel free t
 
 **[Play Tetris!](https://christianbarrios.github.io/tetris/)**
 
-***
 
 
 ---
