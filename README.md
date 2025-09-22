@@ -20,7 +20,7 @@ When I get down to creating, I use these tools (or at least have them close by):
 
 If you're looking to unwind, clear your mind, or just pass the time, feel free to play a round of classic Tetris. It's a great way to relax and zone out for a bit.
 
-**[Play Tetris!](https://christianbarrios.github.io/old_school_tetris/)**
+**[Play Tetris!](https://christianbarrios.github.io/tetris/)**
 
 
 
